@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f6b5c10d1866141a16e3a75ec1ea5a, type: 3}
+  m_Name: Material UI Dark Scheme
+  m_EditorClassIdentifier: 
+  _fontAsset: {fileID: 11400000, guid: 37060896cb261ec468c4f7734944e1c1, type: 2}
+  _primary: {r: 0.40392157, g: 0.3137255, b: 0.6431373, a: 1}
+  _onPrimary: {r: 1, g: 1, b: 1, a: 1}
+  _primaryContainer: {r: 0.9176471, g: 0.86666673, b: 1, a: 1}
+  _onPrimaryContainer: {r: 0.12941177, g: 0, b: 0.3647059, a: 1}
+  _secondary: {r: 0.38431373, g: 0.35686275, b: 0.44313726, a: 1}
+  _onSecondary: {r: 1, g: 1, b: 1, a: 1}
+  _secondaryContainer: {r: 0.9098039, g: 0.87058824, b: 0.972549, a: 1}
+  _onSecondaryContainer: {r: 0.1137255, g: 0.098039225, b: 0.16862746, a: 1}
+  _tertiary: {r: 0.4901961, g: 0.32156864, b: 0.37647063, a: 1}
+  _onTertiary: {r: 1, g: 1, b: 1, a: 1}
+  _tertiaryContainer: {r: 1, g: 0.8470589, b: 0.8941177, a: 1}
+  _onTertiaryContainer: {r: 0.19215688, g: 0.06666667, b: 0.1137255, a: 1}
+  _error: {r: 0.7019608, g: 0.14901961, b: 0.11764707, a: 1}
+  _onError: {r: 1, g: 1, b: 1, a: 1}
+  _errorContainer: {r: 0.97647065, g: 0.8705883, b: 0.86274517, a: 1}
+  _onErrorContainer: {r: 0.25490198, g: 0.054901965, b: 0.043137256, a: 1}
+  _primaryFixed: {r: 0.9176471, g: 0.86666673, b: 1, a: 1}
+  _primaryFixedDim: {r: 0.8156863, g: 0.7372549, b: 1, a: 1}
+  _onPrimaryFixed: {r: 0.12941177, g: 0, b: 0.3647059, a: 1}
+  _onPrimaryFixedVariant: {r: 0.30980393, g: 0.21568629, b: 0.54509807, a: 1}
+  _secondaryFixed: {r: 0.909804, g: 0.8705883, b: 0.9725491, a: 1}
+  _secondaryFixedDim: {r: 0.8, g: 0.7607843, b: 0.8627451, a: 1}
+  _onSecondaryFixed: {r: 0.11372549, g: 0.09803922, b: 0.16862746, a: 1}
+  _onSecondaryFixedVariant: {r: 0.2901961, g: 0.26666668, b: 0.34509805, a: 1}
+  _tertiaryFixed: {r: 1, g: 0.84705883, b: 0.89411765, a: 1}
+  _tertiaryFixedDim: {r: 0.9372549, g: 0.72156864, b: 0.78431374, a: 1}
+  _onTertiaryFixed: {r: 0.19215687, g: 0.06666667, b: 0.11372549, a: 1}
+  _onTertiaryFixedVariant: {r: 0.3882353, g: 0.23137255, b: 0.28235295, a: 1}
+  _surface: {r: 0.99607843, g: 0.96862745, b: 1, a: 1}
+  _surfaceVariant: {r: 0.90588236, g: 0.8784314, b: 0.9254902, a: 1}
+  _surfaceDim: {r: 0.87058824, g: 0.84705883, b: 0.88235295, a: 1}
+  _surfaceBright: {r: 0.99607843, g: 0.96862745, b: 1, a: 1}
+  _surfaceContainer: {r: 0.9529412, g: 0.92941177, b: 0.96862745, a: 1}
+  _surfaceContainerLow: {r: 0.96862745, g: 0.9490196, b: 0.98039216, a: 1}
+  _surfaceContainerLowest: {r: 1, g: 1, b: 1, a: 1}
+  _surfaceContainerHigh: {r: 0.9254902, g: 0.9019608, b: 0.9411765, a: 1}
+  _surfaceContainerHighest: {r: 0.9019608, g: 0.8784314, b: 0.9137255, a: 1}
+  _onSurface: {r: 0.11372549, g: 0.105882354, b: 0.1254902, a: 1}
+  _onSurfaceVariant: {r: 0.28627452, g: 0.27058825, b: 0.30980393, a: 1}
+  _outline: {r: 0.4745098, g: 0.45490196, b: 0.49411765, a: 1}
+  _outlineVariant: {r: 0, g: 0, b: 0, a: 0}
+  _inverseSurface: {r: 0.19607843, g: 0.18431373, b: 0.20784314, a: 1}
+  _inverseOnSurface: {r: 0.9607843, g: 0.9372549, b: 0.96862745, a: 1}
+  _inversePrimary: {r: 0.8156863, g: 0.7372549, b: 1, a: 1}
+  _scrim: {r: 0, g: 0, b: 0, a: 1}
+  _shadow: {r: 0, g: 0, b: 0, a: 1}
