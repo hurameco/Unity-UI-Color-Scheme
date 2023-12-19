@@ -25,7 +25,6 @@ namespace UI.UIColor
 
         private void Reset()
         {
-            _image = GetComponent<Image>();
 
             foreach (Transform t in this.transform)
             {
@@ -39,6 +38,7 @@ namespace UI.UIColor
 
         private void Awake()
         {
+            _image = GetComponent<Image>();
             _unsubscriber = ColorTheme.Instance.Subscribe(this);
         }
 

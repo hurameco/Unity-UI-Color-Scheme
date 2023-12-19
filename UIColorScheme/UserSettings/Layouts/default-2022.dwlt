@@ -527,7 +527,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/UI Color Scheme/Runtime/Resources/UI.ColorScheme
+    - Assets/UI Color Scheme/Runtime/UI
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -535,15 +535,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/UI Color Scheme/Runtime/Resources/UI.ColorScheme
+  - Assets/UI Color Scheme/Runtime/UI
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Hugo\[dev]\Unity-UI-Color-Scheme\UIColorScheme
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 23}
-    m_SelectedIDs: 805c0000
-    m_LastClickedID: 23680
+    m_SelectedIDs: 885c0000
+    m_LastClickedID: 23688
     m_ExpandedIDs: 000000004e5c0000505c00005e5c0000825c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -599,7 +599,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300004a9300004e7e0000028800000407000066bc000062c10000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -712,9 +712,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 3e0b0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 1afaffff
+      m_ExpandedIDs: 1afaffffa45b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1144,7 +1144,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: -0, y: 0, z: -0, w: -1}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
     m_Target: 284.9735
     speed: 2

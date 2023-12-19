@@ -33,7 +33,6 @@ namespace UI.UIColor
 
         private void Reset()
         {
-            _selectableComponent = GetComponent<Selectable>();
             foreach (Transform t in this.transform)
             {
                 var text = t.GetComponent<TextMeshProUGUI>();
@@ -46,7 +45,7 @@ namespace UI.UIColor
 
         private void Awake()
         {
-            
+            _selectableComponent = GetComponent<Selectable>();
             _unsubscriber = ColorTheme.Instance.Subscribe(this);
         }
 
